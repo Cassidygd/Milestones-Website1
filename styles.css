@@ -1,6 +1,7 @@
 html {
   background-color: rgba(143, 188, 143, 0.7);
   font-family: sans-serif;
+  text-align: center;
 }
 
 body {
@@ -11,7 +12,10 @@ h1 {
   text-align: center;
   font-size: 3em;
   }
-.key {
-  background-image: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiM1629orXkAhURnOAKHZ08AhUQjRx6BAgBEAQ&url=https%3A%2F%2Fmotionarray.com
-    %2Fstock-motion-graphics%2Fdigital-blue-hi-tech-backgrounds-63618&psig=AOvVaw3Zpv4wIP-B3jhXHRz5Ww_r&ust=1567621272683204);
+
+.link {
+  font-size: 12px;
+}
+h2{
+  background-color: rgba(143, 188, 143, 0.8);
 }
